@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'oh2guweb'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_844FC633790E445A84282486EEF49E6A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F86650D865C845248BAF920EDAE72669 }}
